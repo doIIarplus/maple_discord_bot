@@ -1,0 +1,17 @@
+{
+  "name": "Iced Guild Discord Bot",
+  "description": "TODO",
+  "image": "heroku/python",
+  "env": {
+    "type": "service_account",
+    "project_id": "earnest-radio-378507",
+    "private_key_id": "0f9100df4d93ac6cb70139acf5e87d9aa91b8a4f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCJHjxijPL6zNXo\nY8+713XjF0PCE0z7ilZYNHIWw+P/CM1RyiRwMll0xbzFk029E/0A6kDFofpb1EXe\nYfo87asegQKZHNoxZ2mBve9udNoLu6YUBogOeYiO13vzbdQTGACtYf4YwZu0ObCV\nrJECYfDjPxyW5iv7az+NQWeiIQFg8LOJ9DzfakI33oKkdxgKegSGOdZjYsaehGGv\nXSSk+hhfXnxfKkT0JMLbD/Ey2oFpo0ajgaMNuQNqSopzM/UI5zq9EVqfowF+7SBI\nhszUfGt6pyZNbnTr1QpSJeZTBPtv80gCojGWnbUs86a/PrmLGA2ZObg1Rf1TboVr\nEkOrlJv9AgMBAAECggEABPkwMq6O7qAI3zO67cLaz13r6CltOKTJIncOhKWzdUU+\nCz9+0wSkgCre62H/Jxfx7JCn653cgpcAYhihgV2+f+3+feFmcaB2Ws1x69/4UQYh\nTTx6aV9Tn8NlnHapQ02y0pcevApOXzsGHREEC8x+dq5L7MDpq1DLHpDBf/IyBlsk\naFYyoI9LLbx6y5O2MNTWZ0yQZTp51H8Mj6Nfx2twgmgQFSsG0EvAcFIbMjviF2Gg\nSaykipl/QUUiCqViJn//OJf76/Hyq27FEL1SguhRkBRTEt9Jwmy15/3RO8hTqGz+\nlIcQIvuo6/h6f+/SQ/iLw0KPKnof4fggmoRP0tolQQKBgQDBFlyEY//ef/oZYZ71\nS9CU9cKe+tkfbsvyyVad8jIzCgbm6jdt5RNYgusO0g5JjJyPFd9LImM6+KsC+wFP\ndTuUTT5QKa6l8APWll7sZv0aMyf482YmSzrsm0Akb/tUuudDXygc771N/n0dZ4ek\nBwsaiwmLBGa9dRunr967fpvVQQKBgQC1y2piimliuAuy0dXoeiWXgSP9/AEEiLdp\nszWbVc67rlOJleQ48iB+jmZKCvTNWflRU8qdtycYTD9C2w+a4fnQGuKAnmh1XTLY\nAUB8IUSAU3jXse0r+LVvWjhFuw7z3tM+h//NXunRlD7cgp+8wK0e305iTHAImhIm\ny7b0eOZrvQKBgGSGh9RFW8kzR7o/IMsElat358NtRe0fef8E45uHpKr95WoDNqh4\nQwIp5sbohZe1JS05be9oD9F79Uyv8Za0qjgjnvWNPegWdWkbEIBzfgJN79mknuIA\n+MSGb3aI9oi+ZfilafTmu+AHRowwgmXbZOSEzosZ14N7nNJIteVXnToBAoGBAIZu\nCxcfHtrfGdd7j2A/oriryD+yL9Z4ephw6r0Y8KycNi3RZ1gsw5aSGlW6UFfhpplb\nCsMhgolXKJh5gMqZO6+FkeRmPvw6lLRiCJtBxnPWRc/KRIV1fkT/RAlcT6xKI49j\n5eapvuE5bFqHRTPAjsP7gOzzdQ0HUVDa50lUdZ9JAoGAGU7kTpLu6HojS6cKMSV0\nytS3SOCHwZMgX+Nf24Br5LmkSXwKRY80FdRD57lHIVQIIb4jMstrPV1LC2SKENXw\naxvmni7rqMVHeA7XMj66B0of9HS6beWQSxHDGdN+B9SFF0mineFQeDD2SHGwPXo9\n0H6pwuscWh6caakqA55SbPU=\n-----END PRIVATE KEY-----\n",
+    "client_email": "gsheets@earnest-radio-378507.iam.gserviceaccount.com",
+    "client_id": "102137662159939804439",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gsheets%40earnest-radio-378507.iam.gserviceaccount.com"
+  }
+}

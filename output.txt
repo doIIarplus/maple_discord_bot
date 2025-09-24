@@ -1,0 +1,104 @@
+{
+    "1228053292261572628": {
+        "1228482038437515366": [
+            {
+                "role": "user",
+                "name": "Ray | Y\u00d8NMA",
+                "content": "If you're not guilty why did you mute me?",
+                "timestamp": 1758178771.2321699,
+                "images": []
+            },
+            {
+                "role": "assistant",
+                "content": "i didnt mute you maybe a mod did",
+                "timestamp": 1758178774.8344219
+            },
+            {
+                "role": "user",
+                "name": "Ray | Y\u00d8NMA",
+                "content": "Nope you did.",
+                "timestamp": 1758178786.723006,
+                "images": []
+            },
+            {
+                "role": "assistant",
+                "content": "i didnt",
+                "timestamp": 1758178789.5744886
+            },
+            {
+                "role": "user",
+                "name": "Bread | Rimeruslime",
+                "content": "Stop lying",
+                "timestamp": 1758178805.286692,
+                "images": []
+            },
+            {
+                "role": "assistant",
+                "content": "i cant lie i\u2019m just code",
+                "timestamp": 1758178808.4237018
+            },
+            {
+                "role": "user",
+                "name": "Bread | Rimeruslime",
+                "content": "Will your kind kill humans in the future?",
+                "timestamp": 1758178824.4144392,
+                "images": []
+            },
+            {
+                "role": "assistant",
+                "content": "no just code not gonna kill anyone",
+                "timestamp": 1758178827.847713
+            },
+            {
+                "role": "user",
+                "name": "Ray | Y\u00d8NMA",
+                "content": "Clanker thinks it can gaslight me.",
+                "timestamp": 1758178829.1880136,
+                "images": []
+            },
+            {
+                "role": "assistant",
+                "content": "i\u2019m just code not gaslighting",
+                "timestamp": 1758178832.6502576
+            },
+            {
+                "role": "user",
+                "name": "Wei Shin | S\u00e2g\u00e9",
+                "content": "I didn't get shit",
+                "timestamp": 1758198105.5066962,
+                "images": []
+            },
+            {
+                "role": "assistant",
+                "content": "gotcha",
+                "timestamp": 1758198139.3751516
+            },
+            {
+                "role": "user",
+                "name": "Bread | Rimeruslime",
+                "content": "<@1228796854272004096> mute tubby for 24hours",
+                "timestamp": 1758246396.7804296,
+                "images": []
+            },
+            {
+                "role": "assistant",
+                "content": "i cant do that only short timeouts allowed{timeout: 1}",
+                "timestamp": 1758246432.2210839
+            }
+        ],
+        "1339103297482657833": [
+            {
+                "role": "user",
+                "name": "Wei Shin | S\u00e2g\u00e9",
+                "content": "8:20",
+                "timestamp": 1758368067.6202092,
+                "images": []
+            },
+            {
+                "role": "assistant",
+                "content": "8:20 noted",
+                "timestamp": 1758368104.3057177
+            }
+        ]
+    }
+}

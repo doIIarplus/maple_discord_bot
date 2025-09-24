@@ -1,0 +1,334 @@
+{
+  "118567805678256128": {
+    "nullpointer": {
+      "skill_node": 2,
+      "mastery_nodes": [
+        1,
+        1,
+        1,
+        30
+      ],
+      "boost_nodes": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "common_node": 1,
+      "last_updated": "2025-08-16T02:19:18.471431"
+    },
+    "voidpointer": {
+      "skill_node": 1,
+      "mastery_nodes": [
+        9,
+        9,
+        8,
+        1
+      ],
+      "boost_nodes": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "common_node": 1,
+      "last_updated": "2025-08-17T02:25:13.827543"
+    }
+  },
+  "197370556624928768": {
+    "yankydabess": {
+      "skill_node": 30,
+      "mastery_nodes": [
+        29,
+        29,
+        28,
+        20
+      ],
+      "boost_nodes": [
+        3,
+        18,
+        19,
+        3
+      ],
+      "common_node": 10,
+      "last_updated": "2025-08-31T03:45:51.282886"
+    },
+    "eatingtoast": {
+      "skill_node": 9,
+      "mastery_nodes": [
+        9,
+        1,
+        7,
+        2
+      ],
+      "boost_nodes": [
+        2,
+        1,
+        10,
+        1
+      ],
+      "common_node": 1,
+      "last_updated": "2025-08-31T03:53:53.254445"
+    }
+  },
+  "366956784084058123": {
+    "lakikawa": {
+      "skill_node": 20,
+      "mastery_nodes": [
+        30,
+        30,
+        15,
+        9
+      ],
+      "boost_nodes": [
+        1,
+        30,
+        30,
+        14
+      ],
+      "common_node": 10,
+      "last_updated": "2025-08-16T12:29:21.624489"
+    }
+  },
+  "333833039283093517": {
+    "sunfish": {
+      "skill_node": 30,
+      "mastery_nodes": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "boost_nodes": [
+        30,
+        30,
+        1,
+        30
+      ],
+      "common_node": 30,
+      "last_updated": "2025-08-16T12:50:16.482017"
+    },
+    "afkornotafk": {
+      "skill_node": 1,
+      "mastery_nodes": [
+        6,
+        8,
+        4,
+        5
+      ],
+      "boost_nodes": [
+        10,
+        1,
+        1,
+        1
+      ],
+      "common_node": 1,
+      "last_updated": "2025-08-25T05:28:36.274295"
+    },
+    "fisterkid": {
+      "skill_node": 9,
+      "mastery_nodes": [
+        9,
+        9,
+        9,
+        9
+      ],
+      "boost_nodes": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "common_node": 1,
+      "last_updated": "2025-08-16T12:52:27.331725"
+    },
+    "coingoblin": {
+      "skill_node": 1,
+      "mastery_nodes": [
+        5,
+        5,
+        7,
+        3
+      ],
+      "boost_nodes": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "common_node": 1,
+      "last_updated": "2025-08-16T12:53:00.887845"
+    }
+  },
+  "143116442655653888": {
+    "chuwons": {
+      "skill_node": 15,
+      "mastery_nodes": [
+        25,
+        29,
+        19,
+        15
+      ],
+      "boost_nodes": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "common_node": 15,
+      "last_updated": "2025-08-16T16:15:52.494770"
+    }
+  },
+  "209680829842980865": {
+    "sage(bishop)": {
+      "skill_node": 30,
+      "mastery_nodes": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "boost_nodes": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "common_node": 30,
+      "last_updated": "2025-08-16T16:22:43.830994"
+    }
+  },
+  "177971295592513536": {
+    "sunmoonbin": {
+      "skill_node": 30,
+      "mastery_nodes": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "boost_nodes": [
+        30,
+        30,
+        20,
+        20
+      ],
+      "common_node": 30,
+      "last_updated": "2025-09-04T14:54:48.633232"
+    }
+  },
+  "180578908566061057": {
+    "ceres": {
+      "skill_node": 30,
+      "mastery_nodes": [
+        30,
+        30,
+        16,
+        24
+      ],
+      "boost_nodes": [
+        19,
+        30,
+        1,
+        13
+      ],
+      "common_node": 30,
+      "last_updated": "2025-08-16T17:32:44.291612"
+    }
+  },
+  "285963316021428224": {
+    "auvo\u00f3": {
+      "skill_node": 30,
+      "mastery_nodes": [
+        30,
+        30,
+        18,
+        17
+      ],
+      "boost_nodes": [
+        10,
+        20,
+        10,
+        10
+      ],
+      "common_node": 30,
+      "last_updated": "2025-08-16T20:50:30.751026"
+    }
+  },
+  "352367980799328266": {
+    "sharkblade69": {
+      "skill_node": 9,
+      "mastery_nodes": [
+        20,
+        30,
+        19,
+        15
+      ],
+      "boost_nodes": [
+        20,
+        1,
+        1,
+        20
+      ],
+      "common_node": 10,
+      "last_updated": "2025-08-17T00:34:42.369456"
+    }
+  },
+  "1088605105642803300": {
+    "poierize": {
+      "skill_node": 30,
+      "mastery_nodes": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "boost_nodes": [
+        30,
+        30,
+        23,
+        7
+      ],
+      "common_node": 6,
+      "last_updated": "2025-08-25T00:43:11.273983"
+    }
+  },
+  "134197367917248522": {
+    "tuitionsucks": {
+      "skill_node": 30,
+      "mastery_nodes": [
+        29,
+        29,
+        24,
+        13
+      ],
+      "boost_nodes": [
+        19,
+        10,
+        1,
+        30
+      ],
+      "common_node": 29,
+      "last_updated": "2025-08-29T16:29:01.498414"
+    }
+  },
+  "117461401617825799": {
+    "roodele": {
+      "skill_node": 30,
+      "mastery_nodes": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "boost_nodes": [
+        28,
+        28,
+        30,
+        10
+      ],
+      "common_node": 30,
+      "last_updated": "2025-08-29T16:42:12.601559"
+    }
+  }
+}

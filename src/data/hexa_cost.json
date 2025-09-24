@@ -1,0 +1,852 @@
+{
+    "leveling_cost": {
+        "skill_nodes": [
+            {
+                "level": 1,
+                "cost_sol_erda": 5,
+                "cost_fragments": 100,
+                "cumulative_sol_erda": 5,
+                "cumulative_fragments": 100
+            },
+            {
+                "level": 2,
+                "cost_sol_erda": 1,
+                "cost_fragments": 30,
+                "cumulative_sol_erda": 6,
+                "cumulative_fragments": 130
+            },
+            {
+                "level": 3,
+                "cost_sol_erda": 1,
+                "cost_fragments": 35,
+                "cumulative_sol_erda": 7,
+                "cumulative_fragments": 165
+            },
+            {
+                "level": 4,
+                "cost_sol_erda": 1,
+                "cost_fragments": 40,
+                "cumulative_sol_erda": 8,
+                "cumulative_fragments": 205
+            },
+            {
+                "level": 5,
+                "cost_sol_erda": 2,
+                "cost_fragments": 45,
+                "cumulative_sol_erda": 10,
+                "cumulative_fragments": 250
+            },
+            {
+                "level": 6,
+                "cost_sol_erda": 2,
+                "cost_fragments": 50,
+                "cumulative_sol_erda": 12,
+                "cumulative_fragments": 300
+            },
+            {
+                "level": 7,
+                "cost_sol_erda": 2,
+                "cost_fragments": 55,
+                "cumulative_sol_erda": 14,
+                "cumulative_fragments": 355
+            },
+            {
+                "level": 8,
+                "cost_sol_erda": 3,
+                "cost_fragments": 60,
+                "cumulative_sol_erda": 17,
+                "cumulative_fragments": 415
+            },
+            {
+                "level": 9,
+                "cost_sol_erda": 3,
+                "cost_fragments": 65,
+                "cumulative_sol_erda": 20,
+                "cumulative_fragments": 480
+            },
+            {
+                "level": 10,
+                "cost_sol_erda": 10,
+                "cost_fragments": 200,
+                "cumulative_sol_erda": 30,
+                "cumulative_fragments": 680
+            },
+            {
+                "level": 11,
+                "cost_sol_erda": 3,
+                "cost_fragments": 80,
+                "cumulative_sol_erda": 33,
+                "cumulative_fragments": 760
+            },
+            {
+                "level": 12,
+                "cost_sol_erda": 3,
+                "cost_fragments": 90,
+                "cumulative_sol_erda": 36,
+                "cumulative_fragments": 850
+            },
+            {
+                "level": 13,
+                "cost_sol_erda": 4,
+                "cost_fragments": 100,
+                "cumulative_sol_erda": 40,
+                "cumulative_fragments": 950
+            },
+            {
+                "level": 14,
+                "cost_sol_erda": 4,
+                "cost_fragments": 110,
+                "cumulative_sol_erda": 44,
+                "cumulative_fragments": 1060
+            },
+            {
+                "level": 15,
+                "cost_sol_erda": 4,
+                "cost_fragments": 120,
+                "cumulative_sol_erda": 48,
+                "cumulative_fragments": 1180
+            },
+            {
+                "level": 16,
+                "cost_sol_erda": 4,
+                "cost_fragments": 130,
+                "cumulative_sol_erda": 52,
+                "cumulative_fragments": 1310
+            },
+            {
+                "level": 17,
+                "cost_sol_erda": 4,
+                "cost_fragments": 140,
+                "cumulative_sol_erda": 56,
+                "cumulative_fragments": 1450
+            },
+            {
+                "level": 18,
+                "cost_sol_erda": 4,
+                "cost_fragments": 150,
+                "cumulative_sol_erda": 60,
+                "cumulative_fragments": 1600
+            },
+            {
+                "level": 19,
+                "cost_sol_erda": 5,
+                "cost_fragments": 160,
+                "cumulative_sol_erda": 65,
+                "cumulative_fragments": 1760
+            },
+            {
+                "level": 20,
+                "cost_sol_erda": 15,
+                "cost_fragments": 350,
+                "cumulative_sol_erda": 80,
+                "cumulative_fragments": 2110
+            },
+            {
+                "level": 21,
+                "cost_sol_erda": 5,
+                "cost_fragments": 170,
+                "cumulative_sol_erda": 85,
+                "cumulative_fragments": 2280
+            },
+            {
+                "level": 22,
+                "cost_sol_erda": 5,
+                "cost_fragments": 180,
+                "cumulative_sol_erda": 90,
+                "cumulative_fragments": 2460
+            },
+            {
+                "level": 23,
+                "cost_sol_erda": 5,
+                "cost_fragments": 190,
+                "cumulative_sol_erda": 95,
+                "cumulative_fragments": 2650
+            },
+            {
+                "level": 24,
+                "cost_sol_erda": 5,
+                "cost_fragments": 200,
+                "cumulative_sol_erda": 100,
+                "cumulative_fragments": 2850
+            },
+            {
+                "level": 25,
+                "cost_sol_erda": 5,
+                "cost_fragments": 210,
+                "cumulative_sol_erda": 105,
+                "cumulative_fragments": 3060
+            },
+            {
+                "level": 26,
+                "cost_sol_erda": 6,
+                "cost_fragments": 220,
+                "cumulative_sol_erda": 111,
+                "cumulative_fragments": 3280
+            },
+            {
+                "level": 27,
+                "cost_sol_erda": 6,
+                "cost_fragments": 230,
+                "cumulative_sol_erda": 117,
+                "cumulative_fragments": 3510
+            },
+            {
+                "level": 28,
+                "cost_sol_erda": 6,
+                "cost_fragments": 240,
+                "cumulative_sol_erda": 123,
+                "cumulative_fragments": 3750
+            },
+            {
+                "level": 29,
+                "cost_sol_erda": 7,
+                "cost_fragments": 250,
+                "cumulative_sol_erda": 130,
+                "cumulative_fragments": 4000
+            },
+            {
+                "level": 30,
+                "cost_sol_erda": 20,
+                "cost_fragments": 500,
+                "cumulative_sol_erda": 150,
+                "cumulative_fragments": 4500
+            }
+        ],
+        "mastery_nodes": [
+            {
+                "level": 1,
+                "cost_sol_erda": 3,
+                "cost_fragments": 50,
+                "cumulative_sol_erda": 3,
+                "cumulative_fragments": 50
+            },
+            {
+                "level": 2,
+                "cost_sol_erda": 1,
+                "cost_fragments": 15,
+                "cumulative_sol_erda": 4,
+                "cumulative_fragments": 65
+            },
+            {
+                "level": 3,
+                "cost_sol_erda": 1,
+                "cost_fragments": 18,
+                "cumulative_sol_erda": 5,
+                "cumulative_fragments": 83
+            },
+            {
+                "level": 4,
+                "cost_sol_erda": 1,
+                "cost_fragments": 20,
+                "cumulative_sol_erda": 6,
+                "cumulative_fragments": 103
+            },
+            {
+                "level": 5,
+                "cost_sol_erda": 1,
+                "cost_fragments": 23,
+                "cumulative_sol_erda": 7,
+                "cumulative_fragments": 126
+            },
+            {
+                "level": 6,
+                "cost_sol_erda": 1,
+                "cost_fragments": 25,
+                "cumulative_sol_erda": 8,
+                "cumulative_fragments": 151
+            },
+            {
+                "level": 7,
+                "cost_sol_erda": 1,
+                "cost_fragments": 28,
+                "cumulative_sol_erda": 9,
+                "cumulative_fragments": 179
+            },
+            {
+                "level": 8,
+                "cost_sol_erda": 2,
+                "cost_fragments": 30,
+                "cumulative_sol_erda": 11,
+                "cumulative_fragments": 209
+            },
+            {
+                "level": 9,
+                "cost_sol_erda": 2,
+                "cost_fragments": 33,
+                "cumulative_sol_erda": 13,
+                "cumulative_fragments": 242
+            },
+            {
+                "level": 10,
+                "cost_sol_erda": 5,
+                "cost_fragments": 100,
+                "cumulative_sol_erda": 18,
+                "cumulative_fragments": 342
+            },
+            {
+                "level": 11,
+                "cost_sol_erda": 2,
+                "cost_fragments": 40,
+                "cumulative_sol_erda": 20,
+                "cumulative_fragments": 382
+            },
+            {
+                "level": 12,
+                "cost_sol_erda": 2,
+                "cost_fragments": 45,
+                "cumulative_sol_erda": 22,
+                "cumulative_fragments": 427
+            },
+            {
+                "level": 13,
+                "cost_sol_erda": 2,
+                "cost_fragments": 50,
+                "cumulative_sol_erda": 24,
+                "cumulative_fragments": 477
+            },
+            {
+                "level": 14,
+                "cost_sol_erda": 2,
+                "cost_fragments": 55,
+                "cumulative_sol_erda": 26,
+                "cumulative_fragments": 532
+            },
+            {
+                "level": 15,
+                "cost_sol_erda": 2,
+                "cost_fragments": 60,
+                "cumulative_sol_erda": 28,
+                "cumulative_fragments": 592
+            },
+            {
+                "level": 16,
+                "cost_sol_erda": 2,
+                "cost_fragments": 65,
+                "cumulative_sol_erda": 30,
+                "cumulative_fragments": 657
+            },
+            {
+                "level": 17,
+                "cost_sol_erda": 2,
+                "cost_fragments": 70,
+                "cumulative_sol_erda": 32,
+                "cumulative_fragments": 727
+            },
+            {
+                "level": 18,
+                "cost_sol_erda": 2,
+                "cost_fragments": 75,
+                "cumulative_sol_erda": 34,
+                "cumulative_fragments": 802
+            },
+            {
+                "level": 19,
+                "cost_sol_erda": 3,
+                "cost_fragments": 80,
+                "cumulative_sol_erda": 37,
+                "cumulative_fragments": 882
+            },
+            {
+                "level": 20,
+                "cost_sol_erda": 8,
+                "cost_fragments": 175,
+                "cumulative_sol_erda": 45,
+                "cumulative_fragments": 1057
+            },
+            {
+                "level": 21,
+                "cost_sol_erda": 3,
+                "cost_fragments": 85,
+                "cumulative_sol_erda": 48,
+                "cumulative_fragments": 1142
+            },
+            {
+                "level": 22,
+                "cost_sol_erda": 3,
+                "cost_fragments": 90,
+                "cumulative_sol_erda": 51,
+                "cumulative_fragments": 1232
+            },
+            {
+                "level": 23,
+                "cost_sol_erda": 3,
+                "cost_fragments": 95,
+                "cumulative_sol_erda": 54,
+                "cumulative_fragments": 1327
+            },
+            {
+                "level": 24,
+                "cost_sol_erda": 3,
+                "cost_fragments": 100,
+                "cumulative_sol_erda": 57,
+                "cumulative_fragments": 1427
+            },
+            {
+                "level": 25,
+                "cost_sol_erda": 3,
+                "cost_fragments": 105,
+                "cumulative_sol_erda": 60,
+                "cumulative_fragments": 1532
+            },
+            {
+                "level": 26,
+                "cost_sol_erda": 3,
+                "cost_fragments": 110,
+                "cumulative_sol_erda": 63,
+                "cumulative_fragments": 1642
+            },
+            {
+                "level": 27,
+                "cost_sol_erda": 3,
+                "cost_fragments": 115,
+                "cumulative_sol_erda": 66,
+                "cumulative_fragments": 1757
+            },
+            {
+                "level": 28,
+                "cost_sol_erda": 3,
+                "cost_fragments": 120,
+                "cumulative_sol_erda": 69,
+                "cumulative_fragments": 1877
+            },
+            {
+                "level": 29,
+                "cost_sol_erda": 4,
+                "cost_fragments": 125,
+                "cumulative_sol_erda": 73,
+                "cumulative_fragments": 2002
+            },
+            {
+                "level": 30,
+                "cost_sol_erda": 10,
+                "cost_fragments": 250,
+                "cumulative_sol_erda": 83,
+                "cumulative_fragments": 2252
+            }
+        ],
+        "boost_nodes": [
+            {
+                "level": 1,
+                "cost_sol_erda": 4,
+                "cost_fragments": 75,
+                "cumulative_sol_erda": 4,
+                "cumulative_fragments": 75
+            },
+            {
+                "level": 2,
+                "cost_sol_erda": 1,
+                "cost_fragments": 23,
+                "cumulative_sol_erda": 5,
+                "cumulative_fragments": 98
+            },
+            {
+                "level": 3,
+                "cost_sol_erda": 1,
+                "cost_fragments": 27,
+                "cumulative_sol_erda": 6,
+                "cumulative_fragments": 125
+            },
+            {
+                "level": 4,
+                "cost_sol_erda": 1,
+                "cost_fragments": 30,
+                "cumulative_sol_erda": 7,
+                "cumulative_fragments": 155
+            },
+            {
+                "level": 5,
+                "cost_sol_erda": 2,
+                "cost_fragments": 34,
+                "cumulative_sol_erda": 9,
+                "cumulative_fragments": 189
+            },
+            {
+                "level": 6,
+                "cost_sol_erda": 2,
+                "cost_fragments": 38,
+                "cumulative_sol_erda": 11,
+                "cumulative_fragments": 227
+            },
+            {
+                "level": 7,
+                "cost_sol_erda": 2,
+                "cost_fragments": 42,
+                "cumulative_sol_erda": 13,
+                "cumulative_fragments": 269
+            },
+            {
+                "level": 8,
+                "cost_sol_erda": 3,
+                "cost_fragments": 45,
+                "cumulative_sol_erda": 16,
+                "cumulative_fragments": 314
+            },
+            {
+                "level": 9,
+                "cost_sol_erda": 3,
+                "cost_fragments": 49,
+                "cumulative_sol_erda": 19,
+                "cumulative_fragments": 363
+            },
+            {
+                "level": 10,
+                "cost_sol_erda": 8,
+                "cost_fragments": 150,
+                "cumulative_sol_erda": 27,
+                "cumulative_fragments": 513
+            },
+            {
+                "level": 11,
+                "cost_sol_erda": 3,
+                "cost_fragments": 60,
+                "cumulative_sol_erda": 30,
+                "cumulative_fragments": 573
+            },
+            {
+                "level": 12,
+                "cost_sol_erda": 3,
+                "cost_fragments": 68,
+                "cumulative_sol_erda": 33,
+                "cumulative_fragments": 641
+            },
+            {
+                "level": 13,
+                "cost_sol_erda": 3,
+                "cost_fragments": 75,
+                "cumulative_sol_erda": 36,
+                "cumulative_fragments": 716
+            },
+            {
+                "level": 14,
+                "cost_sol_erda": 3,
+                "cost_fragments": 83,
+                "cumulative_sol_erda": 39,
+                "cumulative_fragments": 799
+            },
+            {
+                "level": 15,
+                "cost_sol_erda": 3,
+                "cost_fragments": 90,
+                "cumulative_sol_erda": 42,
+                "cumulative_fragments": 889
+            },
+            {
+                "level": 16,
+                "cost_sol_erda": 3,
+                "cost_fragments": 98,
+                "cumulative_sol_erda": 45,
+                "cumulative_fragments": 987
+            },
+            {
+                "level": 17,
+                "cost_sol_erda": 3,
+                "cost_fragments": 105,
+                "cumulative_sol_erda": 48,
+                "cumulative_fragments": 1092
+            },
+            {
+                "level": 18,
+                "cost_sol_erda": 3,
+                "cost_fragments": 113,
+                "cumulative_sol_erda": 51,
+                "cumulative_fragments": 1205
+            },
+            {
+                "level": 19,
+                "cost_sol_erda": 4,
+                "cost_fragments": 120,
+                "cumulative_sol_erda": 55,
+                "cumulative_fragments": 1325
+            },
+            {
+                "level": 20,
+                "cost_sol_erda": 12,
+                "cost_fragments": 263,
+                "cumulative_sol_erda": 67,
+                "cumulative_fragments": 1588
+            },
+            {
+                "level": 21,
+                "cost_sol_erda": 4,
+                "cost_fragments": 128,
+                "cumulative_sol_erda": 71,
+                "cumulative_fragments": 1716
+            },
+            {
+                "level": 22,
+                "cost_sol_erda": 4,
+                "cost_fragments": 135,
+                "cumulative_sol_erda": 75,
+                "cumulative_fragments": 1851
+            },
+            {
+                "level": 23,
+                "cost_sol_erda": 4,
+                "cost_fragments": 143,
+                "cumulative_sol_erda": 79,
+                "cumulative_fragments": 1994
+            },
+            {
+                "level": 24,
+                "cost_sol_erda": 4,
+                "cost_fragments": 150,
+                "cumulative_sol_erda": 83,
+                "cumulative_fragments": 2144
+            },
+            {
+                "level": 25,
+                "cost_sol_erda": 4,
+                "cost_fragments": 158,
+                "cumulative_sol_erda": 87,
+                "cumulative_fragments": 2302
+            },
+            {
+                "level": 26,
+                "cost_sol_erda": 5,
+                "cost_fragments": 165,
+                "cumulative_sol_erda": 92,
+                "cumulative_fragments": 2467
+            },
+            {
+                "level": 27,
+                "cost_sol_erda": 5,
+                "cost_fragments": 173,
+                "cumulative_sol_erda": 97,
+                "cumulative_fragments": 2640
+            },
+            {
+                "level": 28,
+                "cost_sol_erda": 5,
+                "cost_fragments": 180,
+                "cumulative_sol_erda": 102,
+                "cumulative_fragments": 2820
+            },
+            {
+                "level": 29,
+                "cost_sol_erda": 6,
+                "cost_fragments": 188,
+                "cumulative_sol_erda": 108,
+                "cumulative_fragments": 3008
+            },
+            {
+                "level": 30,
+                "cost_sol_erda": 15,
+                "cost_fragments": 375,
+                "cumulative_sol_erda": 123,
+                "cumulative_fragments": 3383
+            }
+        ],
+        "common_nodes": [
+            {
+                "level": 1,
+                "cost_sol_erda": 7,
+                "cost_fragments": 125,
+                "cumulative_sol_erda": 7,
+                "cumulative_fragments": 125
+            },
+            {
+                "level": 2,
+                "cost_sol_erda": 2,
+                "cost_fragments": 38,
+                "cumulative_sol_erda": 9,
+                "cumulative_fragments": 163
+            },
+            {
+                "level": 3,
+                "cost_sol_erda": 2,
+                "cost_fragments": 44,
+                "cumulative_sol_erda": 11,
+                "cumulative_fragments": 207
+            },
+            {
+                "level": 4,
+                "cost_sol_erda": 2,
+                "cost_fragments": 50,
+                "cumulative_sol_erda": 13,
+                "cumulative_fragments": 257
+            },
+            {
+                "level": 5,
+                "cost_sol_erda": 3,
+                "cost_fragments": 57,
+                "cumulative_sol_erda": 16,
+                "cumulative_fragments": 314
+            },
+            {
+                "level": 6,
+                "cost_sol_erda": 3,
+                "cost_fragments": 63,
+                "cumulative_sol_erda": 19,
+                "cumulative_fragments": 377
+            },
+            {
+                "level": 7,
+                "cost_sol_erda": 3,
+                "cost_fragments": 69,
+                "cumulative_sol_erda": 22,
+                "cumulative_fragments": 446
+            },
+            {
+                "level": 8,
+                "cost_sol_erda": 5,
+                "cost_fragments": 75,
+                "cumulative_sol_erda": 27,
+                "cumulative_fragments": 521
+            },
+            {
+                "level": 9,
+                "cost_sol_erda": 5,
+                "cost_fragments": 82,
+                "cumulative_sol_erda": 32,
+                "cumulative_fragments": 603
+            },
+            {
+                "level": 10,
+                "cost_sol_erda": 14,
+                "cost_fragments": 300,
+                "cumulative_sol_erda": 46,
+                "cumulative_fragments": 903
+            },
+            {
+                "level": 11,
+                "cost_sol_erda": 5,
+                "cost_fragments": 110,
+                "cumulative_sol_erda": 51,
+                "cumulative_fragments": 1013
+            },
+            {
+                "level": 12,
+                "cost_sol_erda": 5,
+                "cost_fragments": 124,
+                "cumulative_sol_erda": 56,
+                "cumulative_fragments": 1137
+            },
+            {
+                "level": 13,
+                "cost_sol_erda": 6,
+                "cost_fragments": 138,
+                "cumulative_sol_erda": 62,
+                "cumulative_fragments": 1275
+            },
+            {
+                "level": 14,
+                "cost_sol_erda": 6,
+                "cost_fragments": 152,
+                "cumulative_sol_erda": 68,
+                "cumulative_fragments": 1427
+            },
+            {
+                "level": 15,
+                "cost_sol_erda": 6,
+                "cost_fragments": 165,
+                "cumulative_sol_erda": 74,
+                "cumulative_fragments": 1592
+            },
+            {
+                "level": 16,
+                "cost_sol_erda": 6,
+                "cost_fragments": 179,
+                "cumulative_sol_erda": 80,
+                "cumulative_fragments": 1771
+            },
+            {
+                "level": 17,
+                "cost_sol_erda": 6,
+                "cost_fragments": 193,
+                "cumulative_sol_erda": 86,
+                "cumulative_fragments": 1964
+            },
+            {
+                "level": 18,
+                "cost_sol_erda": 6,
+                "cost_fragments": 207,
+                "cumulative_sol_erda": 92,
+                "cumulative_fragments": 2171
+            },
+            {
+                "level": 19,
+                "cost_sol_erda": 7,
+                "cost_fragments": 220,
+                "cumulative_sol_erda": 99,
+                "cumulative_fragments": 2391
+            },
+            {
+                "level": 20,
+                "cost_sol_erda": 17,
+                "cost_fragments": 525,
+                "cumulative_sol_erda": 116,
+                "cumulative_fragments": 2916
+            },
+            {
+                "level": 21,
+                "cost_sol_erda": 7,
+                "cost_fragments": 234,
+                "cumulative_sol_erda": 123,
+                "cumulative_fragments": 3150
+            },
+            {
+                "level": 22,
+                "cost_sol_erda": 7,
+                "cost_fragments": 248,
+                "cumulative_sol_erda": 130,
+                "cumulative_fragments": 3398
+            },
+            {
+                "level": 23,
+                "cost_sol_erda": 7,
+                "cost_fragments": 262,
+                "cumulative_sol_erda": 137,
+                "cumulative_fragments": 3660
+            },
+            {
+                "level": 24,
+                "cost_sol_erda": 7,
+                "cost_fragments": 275,
+                "cumulative_sol_erda": 144,
+                "cumulative_fragments": 3935
+            },
+            {
+                "level": 25,
+                "cost_sol_erda": 7,
+                "cost_fragments": 289,
+                "cumulative_sol_erda": 151,
+                "cumulative_fragments": 4224
+            },
+            {
+                "level": 26,
+                "cost_sol_erda": 9,
+                "cost_fragments": 303,
+                "cumulative_sol_erda": 160,
+                "cumulative_fragments": 4527
+            },
+            {
+                "level": 27,
+                "cost_sol_erda": 9,
+                "cost_fragments": 317,
+                "cumulative_sol_erda": 169,
+                "cumulative_fragments": 4844
+            },
+            {
+                "level": 28,
+                "cost_sol_erda": 9,
+                "cost_fragments": 330,
+                "cumulative_sol_erda": 178,
+                "cumulative_fragments": 5174
+            },
+            {
+                "level": 29,
+                "cost_sol_erda": 10,
+                "cost_fragments": 344,
+                "cumulative_sol_erda": 188,
+                "cumulative_fragments": 5518
+            },
+            {
+                "level": 30,
+                "cost_sol_erda": 20,
+                "cost_fragments": 750,
+                "cumulative_sol_erda": 208,
+                "cumulative_fragments": 6268
+            }
+        ]
+    }
+}

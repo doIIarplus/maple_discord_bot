@@ -1,0 +1,6 @@
+.env
+HANDOFF
+TODO
+__pycache__/
+api_out/
+.venv/
