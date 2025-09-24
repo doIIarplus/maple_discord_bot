@@ -1,4 +1,4 @@
-# GPQ Bot
+# Maplestory discord bot
 
 ## Deploying and getting started.
 
